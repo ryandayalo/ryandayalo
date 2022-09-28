@@ -6,7 +6,7 @@
 <hr>
 ⚡ Languages: HTML, CSS, JavaScript<br>
 ⚡ Tools: Git, Microsoft Visual Studio Code, Figma, Adobe Photoshop, Adobe Illustrator, Adobe InDesign<br>
-⚡ Libraries/Frameworks: Bootstrap, TailwindCSS
+⚡ Libraries/Frameworks: Bootstrap, TailwindCSS, Jekyll
 
 <h3>Currently Learning</h3>
 <hr>
